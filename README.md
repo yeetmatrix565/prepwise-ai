@@ -48,4 +48,4 @@ PrepWise AI is an AI-powered interview preparation platform that helps users pra
 Coming soon
 
 ## Author
-Heena Jhalani
+Pratham Sharma
